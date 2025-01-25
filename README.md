@@ -1,0 +1,2 @@
+# triposr
+triposr_inpycharm
